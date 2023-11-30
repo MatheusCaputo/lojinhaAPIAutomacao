@@ -5,7 +5,7 @@ Esse é um repositório que contém a automação de alguns testes de API Rest d
 ## [Tecnologias Utilizadas](https://github.com/MatheusCaputo/lojinhaAPIAutomacao#tecnologias-utilizadas)
 
 -   Java  [https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
--   JUnit  [https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.0-M1]
+-   JUnit  [https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.0-M1](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.0-M1)
 -   RestAssured  [https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.4.0](https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.4.0)
 -   Jackson Databind [https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.12.3](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.12.3).
 -   Maven  [https://maven.apache.org/](https://maven.apache.org/)
